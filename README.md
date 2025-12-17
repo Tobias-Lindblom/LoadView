@@ -6,6 +6,7 @@ Applikationen kommer att erbjuda en visuell planering i både 2D och 3D, automat
 # Teknisk Stack
 Next.js - Hanterar både Frontend och Backend.  
 TypeScript - Typsäker utveckling  
+MongoDB - Databas  
 Tailwind CSS - Utility-first styling  
 dnd-kit - Drag-and-drop funktionalitet  
 Lucide-react - Ikonbibliotek  
