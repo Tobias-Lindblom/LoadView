@@ -4,13 +4,15 @@ Mitt mål är att skapa en avancerad webbapplikation för professionell lastplan
 Applikationen kommer att erbjuda en visuell planering i både 2D och 3D, automatisk viktbalansering, laglig viktgränskontroll och professionella rapporter med streckkoder.
 
 # Teknisk Stack
-Next.js - Hanterar både Frontend och Backend.  
-TypeScript - Typsäker utveckling  
-MongoDB - Databas  
-Tailwind CSS - Utility-first styling  
+Next.js – Används för att bygga både frontend och backend i samma applikation
+TypeScript – Används för att skapa robust och typad kod
+Tailwind CSS – Används för att skapa ett modernt och responsivt gränssnitt
+MongoDB – används som databas för tex. Lastningar, pallar och användardata  
 dnd-kit - Drag-and-drop funktionalitet  
 Lucide-react - Ikonbibliotek  
 Three.js - 3D-visualisering  
+Vercel – Används för deploy och hosting av applikationen  
+GitHub Actions – Används för att automatisera test, bygg och deploy-flöden  
 
 # User Stories som arbetas med just nu  
 *(alla user stories genom hela projektet kommer att ligga i ett .md dokument)*
